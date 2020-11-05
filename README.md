@@ -22,8 +22,8 @@ Ctrl + F5
 
 ## Group Members: 
 
-Abhinav Tripathi 19BCE0548\
-Tushar Srivastav 19BCE0589\
-Pankaj Sharma 19BCE0572 
 
+Chavi Pathak   (19BCI0144)\
+Parul Tripathi (19BCI0147)\
+Harsh Pandey   (19BCI0102)
 
